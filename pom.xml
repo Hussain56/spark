@@ -80,6 +80,5 @@
             <url>http://3.81.163.113:8081/repository/spark-maven/</url>
            <layout>default</layout>
         </repository>
-        ...
      </distributionManagement>
 </project>
